@@ -1,5 +1,4 @@
 # Cognifyz-Intern-Program
-1 Month Intern Program
 This repository contains the tasks, projects, and documentation completed during my Web Development Internship at Cognifyz Technologies (Jan–Feb 2025).
 
 # Cognifyz Web Development Internship (Jan–Feb 2025)
