@@ -12,7 +12,6 @@ This repository contains the work completed during my Web Development Internship
 
 ## 🚀 Skills & Technologies Used
 - HTML, CSS, JavaScript
-- React / Node.js (if used)
 - Git & GitHub
 - API Integration
 - Responsive Web Design
